@@ -1,0 +1,18 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "1. DBs were created using protocols thaat browsers don't understand.\r 2. DBs don't have granual access as a first class citizen. Very hard to do user specific acccess in them.\r 3. There are some Dbs(firebase) that let you get rid of the http server and try their best to give you granual acess.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "zod": "^3.24.2"
+  }
+}
