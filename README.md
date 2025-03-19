@@ -13,3 +13,5 @@ DBs usually allow to 4 primitives
 ORMs are the library that lets you talk to the database, Prisma is the popular one, but we are using Mongoose for the meanwhile.
 Mongoose makes you define schema for things like autocompletions, Validating data before it goes into DBs to make sure you're doing right thing. 
 Schemaless DBs bohot khatarnak hain rey baba, itna khatra nahi lene ka isiliye use Mongoose. 
+
+In MongoDb, whenever you put data, and ID is generated randomly. 
